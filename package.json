@@ -51,7 +51,7 @@
     "gatsby-plugin-codegen": "^1.0.14",
     "gatsby-plugin-react-helmet": "^3.2.1",
     "gatsby-plugin-sass": "^2.2.1",
-    "gatsby-plugin-sharp": "^2.5.2",
+    "gatsby-plugin-sharp": "^4.25.1",
     "gatsby-plugin-typescript": "^2.2.2",
     "gatsby-remark-relative-links": "file:plugins/gatsby-remark-relative-links",
     "gatsby-source-filesystem": "^2.2.2",
