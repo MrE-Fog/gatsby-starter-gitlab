@@ -56,7 +56,7 @@
     "gatsby-remark-relative-links": "file:plugins/gatsby-remark-relative-links",
     "gatsby-source-filesystem": "^2.2.2",
     "gatsby-source-gitlab": "file:plugins/gatsby-source-gitlab",
-    "gatsby-transformer-remark": "^2.7.1",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.4.3",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^25.2.7",
