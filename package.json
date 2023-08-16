@@ -54,7 +54,7 @@
     "gatsby-plugin-sharp": "^5.11.0",
     "gatsby-plugin-typescript": "^2.2.2",
     "gatsby-remark-relative-links": "file:plugins/gatsby-remark-relative-links",
-    "gatsby-source-filesystem": "^2.2.2",
+    "gatsby-source-filesystem": "^5.11.0",
     "gatsby-source-gitlab": "file:plugins/gatsby-source-gitlab",
     "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^5.11.0",
