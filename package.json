@@ -23,7 +23,7 @@
     "@types/fs-extra": "^8.1.0",
     "bootstrap": "^4.4.1",
     "gatsby": "^5.11.0",
-    "gatsby-plugin-typegen": "^2.0.0",
+    "gatsby-plugin-typegen": "^2.2.4",
     "gatsby-remark-graph": "^0.2.2",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.0-beta.17",
